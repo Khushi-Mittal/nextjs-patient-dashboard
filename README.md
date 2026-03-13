@@ -10,7 +10,7 @@ A single-page web application built with Next.js (App Router), TypeScript, and c
 - **Visual Accuracy**: Styled to match Figma specifications including medical cross patterns and brand-specific badges.
 
 ## Setup Instructions
-1. Clone the repository: `git clone <your-repo-url>`
+1. Clone the repository: `git clone <https://github.com/Khushi-Mittal/nextjs-patient-dashboard.git>`
 2. Install dependencies: `npm install`
 3. Place `data.json` in the `public/` directory.
 4. Run locally: `npm run dev`
